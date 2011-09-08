@@ -1,3 +1,8 @@
+#  Ruby on Rails Tutorial  - Sample Application
+
+Fred (fwkowl)   9/7/2011
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
